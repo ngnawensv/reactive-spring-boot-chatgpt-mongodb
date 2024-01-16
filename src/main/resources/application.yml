@@ -1,0 +1,6 @@
+# application.yml
+spring:
+  data:
+    mongodb:
+      uri: mongodb://localhost:27017/reactive_spring_boot_chatgpt
+
